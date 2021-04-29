@@ -384,4 +384,9 @@ nav ul a:hover {
     padding: 10px;
     border-radius: 10px;
   }
+  
+  .showcase-form {
+    width: 300px;
+  }
+
 }
